@@ -1,0 +1,7 @@
+好像听说React Native不再维护了？？？？
+
+我到时候再去搜一下有关新闻吧。
+
+不过也无所谓了，学习React Native就当是复习React语法了吧。
+
+实在不行后面还能学Flutter呢。
